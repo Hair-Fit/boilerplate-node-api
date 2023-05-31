@@ -1,4 +1,4 @@
-# Backend Service for Bangkit's Capstone Project "Hair Fit"
+# Boilerplate for Backend Service of Bangkit's Capstone Project "Hair Fit"
 ## Backend environment that this project use
 - Node Js (`v18.16.0 LTS`)
 - NPM (`9.5.1`)
